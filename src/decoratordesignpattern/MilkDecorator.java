@@ -1,0 +1,16 @@
+package decoratordesignpattern;
+
+public class MilkDecorator extends CoffeeDecorator {
+
+	public MilkDecorator(Coffee decoratedCoffee) {
+		super(decoratedCoffee);
+	}
+	@Override
+	public String getDescription() {
+		return decoratedCoffee.getDescription() + ", Milk";
+	}
+	@Override
+	public String getCost() {
+		return decoratedCoffee.getCost() + 0.5;
+	}
+}
