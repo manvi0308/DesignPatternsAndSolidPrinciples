@@ -1,4 +1,4 @@
-package liskovsubstnprinciple;
+package solidprinciples.liskovsubstnprinciple;
 
 public class Car extends EngineVehicle {
 	@Override

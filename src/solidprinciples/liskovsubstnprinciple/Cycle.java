@@ -1,4 +1,4 @@
-package liskovsubstnprinciple;
+package solidprinciples.liskovsubstnprinciple;
 
 public class Cycle extends Vehicle{
 	// now in cycle class we are changing the default behaviour of hasEngine in vehicle 

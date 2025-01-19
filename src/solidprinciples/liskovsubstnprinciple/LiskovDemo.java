@@ -1,4 +1,4 @@
-package liskovsubstnprinciple;
+package solidprinciples.liskovsubstnprinciple;
 import java.util.*;
 
 public class LiskovDemo {

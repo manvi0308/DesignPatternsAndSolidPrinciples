@@ -1,4 +1,4 @@
-package liskovsubstnprinciple;
+package solidprinciples.liskovsubstnprinciple;
 
 public class Vehicle {
 	public int returnWheels() {
