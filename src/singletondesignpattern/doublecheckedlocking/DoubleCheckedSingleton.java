@@ -12,6 +12,7 @@ public class DoubleCheckedSingleton {
 	// issues
 	static DoubleCheckedSingleton getInstance() {
 		if (instance == null) {
+			// synchrozing on the class object
 			synchronized (DoubleCheckedSingleton.class) {
 				if (instance == null) {
 					instance = new DoubleCheckedSingleton();

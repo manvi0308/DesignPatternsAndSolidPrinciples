@@ -1,4 +1,4 @@
-package decoratordesignpattern;
+package designpattern.decoratordesignpattern;
 
 public interface Coffee {
 	String getDescription();

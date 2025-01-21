@@ -1,4 +1,4 @@
-package decoratordesignpattern;
+package designpattern.decoratordesignpattern;
 
 //SugarDecorator.java
 public class SugarDecorator extends CoffeeDecorator {

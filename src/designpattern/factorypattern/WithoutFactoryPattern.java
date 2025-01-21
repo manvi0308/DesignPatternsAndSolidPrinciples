@@ -1,4 +1,4 @@
-package factorypattern;
+package designpattern.factorypattern;
 
 abstract class Vehicle{
 	public abstract void printVehicle();
