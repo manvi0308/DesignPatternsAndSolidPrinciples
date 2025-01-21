@@ -1,4 +1,4 @@
-package strategydesignpattern;
+package designpattern.strategydesignpattern;
 class SortingContext{
 	// reference to the strategy object
 	private SortingStrategy sortingStrategy;
