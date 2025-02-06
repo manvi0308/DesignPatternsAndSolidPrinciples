@@ -1,3 +1,6 @@
+https://blog.algomaster.io/p/singleton-design-pattern
+
+
 ## Singleton causing testing issues
 
 The Singleton design pattern can make testing harder because it ensures only one instance of a class exists, and that instance is shared globally. This can cause problems like:
