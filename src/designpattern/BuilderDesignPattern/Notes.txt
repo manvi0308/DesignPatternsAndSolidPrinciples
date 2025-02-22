@@ -1,0 +1,3 @@
+StringBuilder sb --> Implementation of Builder design pattern
+we can repeatedly add things to it using
+sb.append()

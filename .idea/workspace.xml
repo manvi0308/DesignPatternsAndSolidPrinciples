@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdbc24b9-fdfa-424e-a0ce-2d1eb4ff9a9c" name="Changes" comment="" />
+    <list default="true" id="bdbc24b9-fdfa-424e-a0ce-2d1eb4ff9a9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/designpattern/BuilderDesignPattern/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/Capsicum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/DemoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/ExtraCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/Jalapenos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/LargePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/MediumPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/Requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/SmallPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/PizzaStoreUsingDecoratorPattern/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/adapterdesignpattern/CollegeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/adapterdesignpattern/DemoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/adapterdesignpattern/SchoolStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/adapterdesignpattern/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/adapterdesignpattern/StudentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/facadedesignpattern/BookingFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/facadedesignpattern/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/facadedesignpattern/NotificationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/facadedesignpattern/PaymentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/facadedesignpattern/TicketSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpattern/facadedesignpattern/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/decoratordesignpattern/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/decoratordesignpattern/CoffeeDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/decoratordesignpattern/DecoratorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/decoratordesignpattern/MilkDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/decoratordesignpattern/PlainCoffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/decoratordesignpattern/SugarDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/observerdesignpattern/WeatherApp.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,35 +41,48 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "manvi0308"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;manvi0308&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/manvi0308/DesignPatternsAndSolidPrinciples.git",
-    "accountId": "ee144096-98c6-4c72-93df-1f2658d4fa05"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/manvi0308/DesignPatternsAndSolidPrinciples.git&quot;,
+    &quot;accountId&quot;: &quot;ee144096-98c6-4c72-93df-1f2658d4fa05&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2sfT78icX6ESxVypzVnDipHSPE1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/manvichaddha/Desktop/DesignPatternsAndSolidPrinciples"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/manvichaddha/Desktop/DesignPatternsAndSolidPrinciples&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DesignPatternsAndSolidPrinciples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DesignPatternsAndSolidPrinciples" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
